@@ -1,3 +1,3 @@
 # Programming
 
-Repository hosting various programs and concepts learnt 
+Repository hosting various practiced programs 
